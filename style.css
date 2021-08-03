@@ -1,0 +1,124 @@
+header {
+    background: #000000;
+    padding: 15px;
+    
+   
+}
+
+.principal {
+    position: relative;
+    top: 10px;
+    bottom: 10px;
+    padding: 10px; 
+}
+
+.redessociais {
+    position: absolute;
+    display: inline-block;
+    right: 0;
+    top: 30px;
+    padding-block: 10px;
+    padding-right: 50px;
+}
+
+div.divisao1 {
+       text-align: justify;
+       margin-left: 10%;
+       
+}
+.titulo {
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    left: 100px;
+    font-size: 45px;
+    text-align: justify;
+    font-weight: bold;
+    font-family: Archivo, sans-serif;
+   
+}
+.voce {
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+.apoio {
+    display: block;
+    position: relative;
+    font-size: 20px;
+    color: #707070;
+    top: 110px;
+    left: 100px;
+}
+div form {
+    display: inline-block;
+   padding: 10px;
+   align-items: center;
+   border: 2px solid;
+   border-radius: 32px;
+}
+form {
+    display: inline-block;
+    position: absolute;
+    top: 140px;
+    right: 50px;
+   
+  
+    box-shadow: 0 0 5em 1em gold;
+    
+}
+.tituloform {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: justify;
+    color:#0b0b0b;
+
+}
+.chamada1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+form label, form legend{
+    display: block;
+    color: #707070;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.caixa {
+    width: 90%;
+    height: 40px;
+    margin: 10px;
+}
+form label,.caixa:hover {
+    cursor: pointer;
+}
+input:active {
+    border-color: yellow;
+    background: black;
+}
+#radical {
+    border-radius: 20px;
+}
+#radical:active {
+    background: yellow;
+    border-color: sandybrown;
+}
+svg {
+    margin-top: 130px;
+    box-shadow: 0 0 5em 1em gold;
+}
+footer{
+    background: whitesmoke;
+    padding: 15px;
+}
+.rodapé{
+    position: relative;
+    top: 150px;
+}
+.copyright {
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
